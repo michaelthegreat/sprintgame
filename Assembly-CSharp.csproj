@@ -48,11 +48,16 @@
   <ItemGroup>
      <Compile Include="Assets\GUI.cs" />
      <Compile Include="Assets\Player.cs" />
-     <Compile Include="Assets\Points.cs" />
-     <Compile Include="Assets\animationScript.cs" />
+     <Compile Include="Assets\sceneScroller.cs" />
+     <Compile Include="Assets\scoreDisplay.cs" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{F9B934B8-E109-9D9C-2E81-932EEF7982C1}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
