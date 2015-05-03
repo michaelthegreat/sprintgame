@@ -3,7 +3,6 @@ using System.Collections;
 
 public class playerController : MonoBehaviour
 {
-	
 	private Animator animator;
 	public float speed = 10.0f;
 	// Use this for initialization
@@ -45,6 +44,11 @@ public class playerController : MonoBehaviour
 			Vector3 position = this.transform.position;
 			position.y--;
 			this.transform.position = position;
+		}
+		if (Input.GetKeyDown ("space")) 
+		{
+			animator.SetInteger("Shooting", 1);
+
 		}
 		
 	}
