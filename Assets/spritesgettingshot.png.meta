@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 95a7be2d6296b8a41a0ee67030ddb40f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesgettingshot_0
+    21300002: spritesgettingshot_1
+    21300004: spritesgettingshot_2
+    21300006: spritesgettingshot_3
+    21300008: spritesgettingshot_4
+    21300010: spritesgettingshot_5
+    21300012: spritesgettingshot_6
+    21300014: spritesgettingshot_7
+    21300016: spritesgettingshot_8
+    21300018: spritesgettingshot_9
+    21300020: spritesgettingshot_10
+    21300022: spritesgettingshot_11
+    21300024: spritesgettingshot_12
+    21300026: spritesgettingshot_13
+    21300028: spritesgettingshot_14
+    21300030: spritesgettingshot_15
+    21300032: spritesgettingshot_16
+    21300034: spritesgettingshot_17
+    21300036: spritesgettingshot_18
+    21300038: spritesgettingshot_19
+    21300040: spritesgettingshot_20
+    21300042: spritesgettingshot_21
+    21300044: spritesgettingshot_22
+    21300046: spritesgettingshot_23
+    21300048: spritesgettingshot_24
+    21300050: spritesgettingshot_25
+    21300052: spritesgettingshot_26
+    21300054: spritesgettingshot_27
+    21300056: spritesgettingshot_28
+    21300058: spritesgettingshot_29
+    21300060: spritesgettingshot_30
+    21300062: spritesgettingshot_31
+    21300064: spritesgettingshot_32
+    21300066: spritesgettingshot_33
+    21300068: spritesgettingshot_34
+    21300070: spritesgettingshot_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesgettingshot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 407
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 407
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 407
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 407
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 342
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 342
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 342
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 342
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 277
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 277
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 277
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 277
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 212
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 212
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 212
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 212
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 147
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 147
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 147
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 82
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 82
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 82
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 82
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 17
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 17
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesgettingshot_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 17
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -174,8 +174,8 @@ TextureImporter:
         y: 422
         width: 27
         height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_7
       rect:
@@ -184,8 +184,8 @@ TextureImporter:
         y: 423
         width: 26
         height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_8
       rect:
@@ -232,20 +232,20 @@ TextureImporter:
         serializedVersion: 2
         x: 112
         y: 380
-        width: 32
+        width: 25
         height: 37
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_14
       rect:
         serializedVersion: 2
         x: 142
         y: 380
-        width: 32
+        width: 27
         height: 37
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_13
       rect:
@@ -254,8 +254,8 @@ TextureImporter:
         y: 380
         width: 32
         height: 37
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_12
       rect:
@@ -264,8 +264,8 @@ TextureImporter:
         y: 380
         width: 28
         height: 37
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_16
       rect:
@@ -274,8 +274,8 @@ TextureImporter:
         y: 381
         width: 27
         height: 32
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_17
       rect:
@@ -284,8 +284,8 @@ TextureImporter:
         y: 381
         width: 26
         height: 32
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_18
       rect:
@@ -364,8 +364,8 @@ TextureImporter:
         y: 311
         width: 29
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .347322136, y: .971261442}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_27
       rect:
@@ -374,8 +374,8 @@ TextureImporter:
         y: 311
         width: 24
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .207897827, y: .976687253}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_28
       rect:
@@ -384,8 +384,8 @@ TextureImporter:
         y: 311
         width: 32
         height: 33
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .396226883, y: .961559892}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_29
       rect:
@@ -394,8 +394,8 @@ TextureImporter:
         y: 311
         width: 26
         height: 33
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .265844494, y: .967151046}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_30
       rect:
@@ -494,8 +494,8 @@ TextureImporter:
         y: 270
         width: 27
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .329365492, y: .973622918}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_40
       rect:
@@ -504,8 +504,8 @@ TextureImporter:
         y: 270
         width: 25
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .281587511, y: .973622918}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_41
       rect:
@@ -514,8 +514,8 @@ TextureImporter:
         y: 270
         width: 30
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .391931653, y: .973622918}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_42
       rect:
@@ -524,8 +524,8 @@ TextureImporter:
         y: 270
         width: 28
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .359836042, y: .978641272}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_43
       rect:
@@ -544,8 +544,8 @@ TextureImporter:
         y: 228
         width: 26
         height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_44
       rect:
@@ -554,8 +554,8 @@ TextureImporter:
         y: 228
         width: 27
         height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_47
       rect:
@@ -564,8 +564,8 @@ TextureImporter:
         y: 227
         width: 26
         height: 32
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_46
       rect:
@@ -574,8 +574,8 @@ TextureImporter:
         y: 227
         width: 27
         height: 32
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_48
       rect:
@@ -584,8 +584,8 @@ TextureImporter:
         y: 226
         width: 28
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_49
       rect:
@@ -594,8 +594,8 @@ TextureImporter:
         y: 226
         width: 32
         height: 34
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_50
       rect:
@@ -604,8 +604,8 @@ TextureImporter:
         y: 226
         width: 24
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_51
       rect:
@@ -614,8 +614,8 @@ TextureImporter:
         y: 226
         width: 20
         height: 37
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: explosion1
       rect:
@@ -626,7 +626,7 @@ TextureImporter:
         height: 38
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 31, y: 0, z: 0, w: 0}
+      border: {x: 33, y: 0, z: 0, w: 0}
     - name: explosion_4
       rect:
         serializedVersion: 2
