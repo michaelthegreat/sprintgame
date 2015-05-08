@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 1621876d5d02d734d800f814dd2007d7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy0ShotDead1
+    21300002: enemy0ShotDead2
+    21300004: enemy0ShotDead3
+    21300006: enemy0ShotDead4
+    21300008: enemy0ShotDead5
+    21300010: enemy0ShotDead6
+    21300012: enemy0ShotDead7
+    21300014: enemy0ShotDead8
+    21300016: enemy0ShotDead9
+    21300018: enemy0ShotDead10
+    21300020: enemy0ShotDead11
+    21300022: enemy0ShotDead12
+    21300024: enemy0ShotDead13
+    21300026: enemy0ShotDead14
+    21300028: enemy0ShotDead15
+    21300030: enemy0ShotDead16
+    21300032: enemy0ShotDead17
+    21300034: enemy1ShotDead1
+    21300036: enemy1ShotDead2
+    21300038: enemy1ShotDead3
+    21300040: enemy1ShotDead4
+    21300042: enemy1ShotDead5
+    21300044: enemy1ShotDead6
+    21300046: enemy1ShotDead7
+    21300048: enemy1ShotDead8
+    21300050: enemy1ShotDead9
+    21300052: enemy1ShotDead11
+    21300054: enemy1ShotDead12
+    21300056: enemy1ShotDead13
+    21300058: enemy1ShotDead14
+    21300060: enemy1ShotDead15
+    21300062: enemy1ShotDead16
+    21300064: enemy1ShotDead17
+    21300066: enemy1ShotDead18
+    21300068: enemy2ShotDead1
+    21300070: enemy2ShotDead2
+    21300072: enemy2ShotDead3
+    21300074: enemy2ShotDead4
+    21300076: enemy2ShotDead5
+    21300078: enemy2ShotDead6
+    21300080: enemy2ShotDead7
+    21300082: enemy2ShotDead8
+    21300084: enemy2ShotDead9
+    21300086: enemy2ShotDead10
+    21300088: enemy2ShotDead11
+    21300090: enemy2ShotDead12
+    21300092: enemy2ShotDead13
+    21300094: enemy2ShotDead14
+    21300096: enemy2ShotDead15
+    21300098: enemy2ShotDead16
+    21300100: enemy2ShotDead17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy0ShotDead1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 401
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 401
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 401
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 401
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 401
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 401
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 401
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 401
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 400
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 400
+        width: 36
+        height: 20
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 400
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead12
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 401
+        width: 35
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 374
+        width: 34
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 374
+        width: 37
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 374
+        width: 41
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 374
+        width: 37
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy0ShotDead17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 374
+        width: 37
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 333
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 333
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 333
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 333
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 333
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 333
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 333
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 333
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 332
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 332
+        width: 36
+        height: 20
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 332
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 333
+        width: 34
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 306
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 306
+        width: 35
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 306
+        width: 39
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 306
+        width: 35
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1ShotDead18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 306
+        width: 36
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 262
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 262
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 262
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 262
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 262
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 262
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 262
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 258
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 261
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 261
+        width: 36
+        height: 20
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 261
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 262
+        width: 33
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 235
+        width: 34
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 235
+        width: 34
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 235
+        width: 41
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 235
+        width: 37
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2ShotDead17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 235
+        width: 37
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

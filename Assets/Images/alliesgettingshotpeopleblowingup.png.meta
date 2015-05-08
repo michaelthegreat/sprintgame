@@ -1,0 +1,982 @@
+fileFormatVersion: 2
+guid: 8e707d81b62ec4045a7f8bfffad1fa05
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: p1
+    21300002: p2
+    21300004: p3
+    21300006: p4
+    21300008: p5
+    21300010: p6
+    21300012: p7
+    21300014: p8
+    21300016: p9
+    21300018: p10
+    21300020: p11
+    21300022: p12
+    21300024: p13
+    21300026: p14
+    21300028: alliesgettingshotpeopleblowingup_15
+    21300030: p15
+    21300032: p16
+    21300034: p17
+    21300036: aexp9
+    21300038: aexp8
+    21300040: aexp7
+    21300042: aexp6
+    21300044: aexp5
+    21300046: aexp4
+    21300048: aexp3
+    21300050: aexp2
+    21300052: eexp9
+    21300054: eexp8
+    21300056: eexp7
+    21300058: eexp6
+    21300060: eexp5
+    21300062: eexp4
+    21300064: eexp3
+    21300066: eexp2
+    21300068: ally0_dy13
+    21300070: ally0_dy1
+    21300072: ally0_dy2
+    21300074: ally0_dy3
+    21300076: ally0_dy4
+    21300078: ally0_dy5
+    21300080: ally0_dy6
+    21300082: ally0_dy7
+    21300084: ally0_dy8
+    21300086: ally0_dy9
+    21300088: ally0_dy10
+    21300090: ally0_dy11
+    21300092: ally0_dy12
+    21300094: ally0_dy14
+    21300096: ally0_dy15
+    21300098: ally0_dy16
+    21300100: ally0_dy17
+    21300102: allydy1_1
+    21300104: allydy1_2
+    21300106: allydy1_3
+    21300108: allydy1_4
+    21300110: allydy1_5
+    21300112: allydy1_6
+    21300114: allydy1_7
+    21300116: allydy1_8
+    21300118: allydy1_9
+    21300120: allydy1_10
+    21300122: allydy1_11
+    21300124: allydy1_12
+    21300126: allydy1_13
+    21300128: allydy1_14
+    21300130: allydy1_15
+    21300132: allydy1_16
+    21300134: allydy1_17
+    21300136: allydy2_1
+    21300138: allydy2_2
+    21300140: allydy2_3
+    21300142: allydy2_4
+    21300144: allydy2_5
+    21300146: allydy2_6
+    21300148: allydy2_7
+    21300150: allydy2_8
+    21300152: allydy2_9
+    21300154: allydy2_10
+    21300156: allydy2_11
+    21300158: allydy2_12
+    21300160: allydy2_13
+    21300162: allydy2_14
+    21300164: allydy2_15
+    21300166: allydy2_16
+    21300168: allydy2_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: p1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 438
+        width: 44
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 438
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 437
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 437
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 437
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 438
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 438
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 438
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 437
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 437
+        width: 39
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 435
+        width: 39
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 437
+        width: 49
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 409
+        width: 37
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 409
+        width: 41
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alliesgettingshotpeopleblowingup_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 412
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 411
+        width: 38
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 411
+        width: 43
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 411
+        width: 41
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 270
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 271
+        width: 42
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273
+        width: 36
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 273
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 275
+        width: 37
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 275
+        width: 35
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 274
+        width: 33
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aexp2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 274
+        width: 31
+        height: 27
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 224
+        width: 44
+        height: 30
+      alignment: 9
+      pivot: {x: .641581953, y: -.0389348343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 42
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 38
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 224
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 226
+        width: 37
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 226
+        width: 35
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 226
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eexp2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 225
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 152
+        width: 44
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 179
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 179
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 180
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 180
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 180
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 180
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 179
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 179
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 179
+        width: 39
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 179
+        width: 39
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 180
+        width: 43
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 152
+        width: 44
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 152
+        width: 49
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 152
+        width: 43
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally0_dy17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 152
+        width: 41
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 112
+        width: 44
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 111
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 110
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+    - name: allydy1_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 112
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 112
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 111
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 111
+        width: 39
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 109
+        width: 39
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 112
+        width: 44
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 47
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 45
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 84
+        width: 47
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 84
+        width: 43
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy1_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 85
+        width: 42
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 43
+        width: 44
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 43
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 43
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 43
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 43
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 42
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 42
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 42
+        width: 39
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 40
+        width: 40
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 42
+        width: 43
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 43
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 41
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 15
+        width: 47
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 15
+        width: 43
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allydy2_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 15
+        width: 41
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
