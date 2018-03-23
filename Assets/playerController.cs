@@ -47,8 +47,8 @@ public class playerController : MonoBehaviour
 		}
 		if (Input.GetKeyDown ("space")) 
 		{
-			animator.SetInteger("Shooting", 1);
-
+            //animator.SetInteger("Shooting", 1);
+            animator.SetTrigger("Shooting");
 		}
 		
 	}

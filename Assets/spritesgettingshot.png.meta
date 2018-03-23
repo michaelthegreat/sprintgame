@@ -40,52 +40,103 @@ TextureImporter:
     21300066: spritesgettingshot_33
     21300068: spritesgettingshot_34
     21300070: spritesgettingshot_35
-  serializedVersion: 2
+  externalObjects: {}
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 0
     aniso: 16
     mipBias: -1
-    wrapMode: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 50
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: spritesgettingshot_0
+    - serializedVersion: 2
+      name: spritesgettingshot_0
       rect:
         serializedVersion: 2
         x: 0
@@ -93,9 +144,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .629999995, y: .800000012}
+      pivot: {x: 0.63, y: 0.8}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_1
       rect:
         serializedVersion: 2
         x: 65
@@ -103,9 +158,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .629999995, y: .800000012}
+      pivot: {x: 0.63, y: 0.8}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_2
       rect:
         serializedVersion: 2
         x: 130
@@ -113,9 +172,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .629999995, y: .142950758}
+      pivot: {x: 0.63, y: 0.14295076}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_3
       rect:
         serializedVersion: 2
         x: 195
@@ -123,9 +186,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .629999995, y: .800000012}
+      pivot: {x: 0.63, y: 0.8}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_4
       rect:
         serializedVersion: 2
         x: 260
@@ -133,9 +200,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .629999995, y: .800000012}
+      pivot: {x: 0.63, y: 0.8}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_5
       rect:
         serializedVersion: 2
         x: 0
@@ -143,9 +214,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .732369363, y: .177263305}
+      pivot: {x: 0.73236936, y: 0.1772633}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_6
       rect:
         serializedVersion: 2
         x: 65
@@ -153,9 +228,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .784006894, y: .19017303}
+      pivot: {x: 0.7840069, y: 0.19017303}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_7
       rect:
         serializedVersion: 2
         x: 130
@@ -163,9 +242,13 @@ TextureImporter:
         width: 65
         height: 40
       alignment: 9
-      pivot: {x: .719459891, y: .196627811}
+      pivot: {x: 0.7194599, y: 0.19662781}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_8
       rect:
         serializedVersion: 2
         x: 195
@@ -173,9 +256,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .667821825, y: .190853715}
+      pivot: {x: 0.6678218, y: 0.19085371}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_9
       rect:
         serializedVersion: 2
         x: 260
@@ -183,9 +270,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .667822242, y: .21837014}
+      pivot: {x: 0.66782224, y: 0.21837014}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_10
       rect:
         serializedVersion: 2
         x: 0
@@ -193,9 +284,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .732369363, y: .461271793}
+      pivot: {x: 0.73236936, y: 0.4612718}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_11
       rect:
         serializedVersion: 2
         x: 65
@@ -203,9 +298,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .784006894, y: .474181175}
+      pivot: {x: 0.7840069, y: 0.47418118}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_12
       rect:
         serializedVersion: 2
         x: 130
@@ -213,9 +312,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .758188128, y: .461271793}
+      pivot: {x: 0.7581881, y: 0.4612718}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_13
       rect:
         serializedVersion: 2
         x: 195
@@ -223,9 +326,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .680731177, y: .487090588}
+      pivot: {x: 0.6807312, y: 0.4870906}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_14
       rect:
         serializedVersion: 2
         x: 261
@@ -233,9 +340,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .69364059, y: .222106934}
+      pivot: {x: 0.6936406, y: 0.22210693}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_15
       rect:
         serializedVersion: 2
         x: 0
@@ -243,9 +354,13 @@ TextureImporter:
         width: 65
         height: 40
       alignment: 9
-      pivot: {x: .706550539, y: .474180967}
+      pivot: {x: 0.70655054, y: 0.47418097}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_16
       rect:
         serializedVersion: 2
         x: 65
@@ -253,9 +368,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .771097481, y: .474180967}
+      pivot: {x: 0.7710975, y: 0.47418097}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_17
       rect:
         serializedVersion: 2
         x: 130
@@ -263,9 +382,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .745278716, y: .487090349}
+      pivot: {x: 0.7452787, y: 0.48709035}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_18
       rect:
         serializedVersion: 2
         x: 195
@@ -273,9 +396,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .680731177, y: .474180967}
+      pivot: {x: 0.6807312, y: 0.47418097}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_19
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_19
       rect:
         serializedVersion: 2
         x: 260
@@ -283,9 +410,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .693641067, y: .499999762}
+      pivot: {x: 0.69364107, y: 0.49999976}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_20
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_20
       rect:
         serializedVersion: 2
         x: 0
@@ -293,9 +424,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .306359112, y: .487090349}
+      pivot: {x: 0.3063591, y: 0.48709035}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_21
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_21
       rect:
         serializedVersion: 2
         x: 65
@@ -303,9 +438,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .241812021, y: .499999762}
+      pivot: {x: 0.24181202, y: 0.49999976}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_22
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_22
       rect:
         serializedVersion: 2
         x: 130
@@ -313,9 +452,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .293449521, y: .487090349}
+      pivot: {x: 0.29344952, y: 0.48709035}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_23
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_23
       rect:
         serializedVersion: 2
         x: 195
@@ -323,9 +466,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .306358457, y: .487090349}
+      pivot: {x: 0.30635846, y: 0.48709035}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_24
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_24
       rect:
         serializedVersion: 2
         x: 260
@@ -333,9 +480,13 @@ TextureImporter:
         width: 65
         height: 37
       alignment: 9
-      pivot: {x: .306358933, y: .474180967}
+      pivot: {x: 0.30635893, y: 0.47418097}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_25
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_25
       rect:
         serializedVersion: 2
         x: 0
@@ -343,9 +494,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .306359112, y: .422543347}
+      pivot: {x: 0.3063591, y: 0.42254335}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_26
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_26
       rect:
         serializedVersion: 2
         x: 65
@@ -353,9 +508,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .215993211, y: .474180967}
+      pivot: {x: 0.21599321, y: 0.47418097}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_27
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_27
       rect:
         serializedVersion: 2
         x: 130
@@ -363,9 +522,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .254721314, y: .487090349}
+      pivot: {x: 0.2547213, y: 0.48709035}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_28
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_28
       rect:
         serializedVersion: 2
         x: 195
@@ -373,9 +536,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .267630249, y: .487090349}
+      pivot: {x: 0.26763025, y: 0.48709035}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_29
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_29
       rect:
         serializedVersion: 2
         x: 260
@@ -383,9 +550,13 @@ TextureImporter:
         width: 65
         height: 39
       alignment: 9
-      pivot: {x: .319268316, y: .499999762}
+      pivot: {x: 0.31926832, y: 0.49999976}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_30
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_30
       rect:
         serializedVersion: 2
         x: 0
@@ -393,9 +564,13 @@ TextureImporter:
         width: 65
         height: 37
       alignment: 9
-      pivot: {x: .306359112, y: .499999404}
+      pivot: {x: 0.3063591, y: 0.4999994}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_31
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_31
       rect:
         serializedVersion: 2
         x: 65
@@ -403,9 +578,13 @@ TextureImporter:
         width: 65
         height: 37
       alignment: 9
-      pivot: {x: .228902608, y: .499999404}
+      pivot: {x: 0.22890261, y: 0.4999994}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_32
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_32
       rect:
         serializedVersion: 2
         x: 130
@@ -413,9 +592,13 @@ TextureImporter:
         width: 65
         height: 36
       alignment: 9
-      pivot: {x: .306358933, y: .512909174}
+      pivot: {x: 0.30635893, y: 0.5129092}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_33
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_33
       rect:
         serializedVersion: 2
         x: 196
@@ -423,9 +606,13 @@ TextureImporter:
         width: 65
         height: 38
       alignment: 9
-      pivot: {x: .306358933, y: .487090021}
+      pivot: {x: 0.30635893, y: 0.48709002}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_34
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_34
       rect:
         serializedVersion: 2
         x: 260
@@ -433,9 +620,13 @@ TextureImporter:
         width: 65
         height: 37
       alignment: 9
-      pivot: {x: .319268316, y: .499999404}
+      pivot: {x: 0.31926832, y: 0.4999994}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesgettingshot_35
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spritesgettingshot_35
       rect:
         serializedVersion: 2
         x: 325
@@ -443,8 +634,13 @@ TextureImporter:
         width: 65
         height: 67
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
