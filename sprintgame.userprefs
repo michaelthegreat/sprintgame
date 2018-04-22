@@ -1,9 +1,8 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Points.cs">
+﻿<Properties StartupItem="sprintgame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\playerController.cs">
     <Files>
-      <File FileName="Assets/playerController.cs" Line="42" Column="43" />
-      <File FileName="Assets/Points.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\playerController.cs" Line="26" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

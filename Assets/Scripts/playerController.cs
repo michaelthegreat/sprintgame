@@ -5,8 +5,12 @@ public class playerController : MonoBehaviour
 {
 	private Animator animator;
 	public float speed = 10.0f;
-	// Use this for initialization
-	void Start()
+    public GameObject bulletPrefab;
+    public Transform bulletSpawn;
+
+
+    // Use this for initialization
+    void Start()
 	{
 		animator = this.GetComponent<Animator>();
 	}
@@ -47,9 +51,25 @@ public class playerController : MonoBehaviour
 		}
 		if (Input.GetKeyDown ("space")) 
 		{
-            //animator.SetInteger("Shooting", 1);
-            animator.SetTrigger("Shooting");
+            Fire();
 		}
 		
 	}
+
+    void Fire()
+    {
+
+        animator.SetTrigger("Shooting");
+        // Create the Bullet from the Bullet Prefab
+        var bullet = (GameObject)Instantiate(
+            bulletPrefab,
+            bulletSpawn.position,
+            bulletSpawn.rotation);
+
+        // Add velocity to the bullet
+        bullet.GetComponent<Rigidbody2D>().velocity = bullet.transform.right * 5;
+
+        // Destroy the bullet after 2 seconds
+        Destroy(bullet, 2.0f);
+    }
 }
