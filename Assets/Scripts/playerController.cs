@@ -51,15 +51,15 @@ public class playerController : MonoBehaviour
 		}
 		if (Input.GetKeyDown ("space")) 
 		{
-            Fire();
-		}
+            animator.SetTrigger("Shooting");
+        }
 		
 	}
 
-    void Fire()
+    public void Fire()
     {
 
-        animator.SetTrigger("Shooting");
+        
         // Create the Bullet from the Bullet Prefab
         var bullet = (GameObject)Instantiate(
             bulletPrefab,

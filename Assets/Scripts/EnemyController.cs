@@ -29,6 +29,7 @@ public class EnemyController : MonoBehaviour {
         //Debug.Log(this.animator);
         //
         timer1 = TIMER1_CONST;
+        Destroy(gameObject,22.0f);
     }
 
  
@@ -50,9 +51,20 @@ public class EnemyController : MonoBehaviour {
 
             }
         }
-        if(timeUntilDestroy <= 0)
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("collision");
+        if(collision.gameObject.tag == "bullet")
         {
-            Destroy(gameObject);
+            Destroy(collision.gameObject);
+            animator.SetTrigger("dying");
+            Destroy(GetComponent<PolygonCollider2D>());
+            //Destroy(gameObject,3.0f);
         }
     }
+
+
 }
