@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 95a7be2d6296b8a41a0ee67030ddb40f
-timeCreated: 1430679295
+timeCreated: 1526247651
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -40,6 +40,16 @@ TextureImporter:
     21300066: spritesgettingshot_33
     21300068: spritesgettingshot_34
     21300070: spritesgettingshot_35
+    21300072: spritesgettingshot_36
+    21300074: spritesgettingshot_37
+    21300076: spritesgettingshot_38
+    21300078: spritesgettingshot_39
+    21300080: spritesgettingshot_40
+    21300082: spritesgettingshot_41
+    21300084: spritesgettingshot_42
+    21300086: spritesgettingshot_43
+    21300088: spritesgettingshot_44
+    21300090: spritesgettingshot_45
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -77,8 +87,8 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
-  spriteMeshType: 1
+  spriteExtrude: 0
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -139,506 +149,492 @@ TextureImporter:
       name: spritesgettingshot_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 433
-        width: 65
-        height: 39
+        x: 36
+        y: 435
+        width: 23
+        height: 34
       alignment: 9
-      pivot: {x: 0.63, y: 0.8}
+      pivot: {x: 0.3236651, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: spritesgettingshot_1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 434
-        width: 65
-        height: 38
+        x: 91
+        y: 435
+        width: 34
+        height: 27
       alignment: 9
-      pivot: {x: 0.63, y: 0.8}
+      pivot: {x: 0.5215252, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: spritesgettingshot_2
       rect:
         serializedVersion: 2
-        x: 130
-        y: 434
-        width: 65
-        height: 38
+        x: 146
+        y: 438
+        width: 42
+        height: 21
       alignment: 9
-      pivot: {x: 0.63, y: 0.14295076}
+      pivot: {x: 0.46716818, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: spritesgettingshot_3
       rect:
         serializedVersion: 2
-        x: 195
-        y: 433
-        width: 65
-        height: 39
+        x: 204
+        y: 435
+        width: 48
+        height: 15
       alignment: 9
-      pivot: {x: 0.63, y: 0.8}
+      pivot: {x: 0.4269991, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: spritesgettingshot_4
       rect:
         serializedVersion: 2
-        x: 260
-        y: 433
-        width: 65
-        height: 39
+        x: 269
+        y: 434
+        width: 57
+        height: 12
       alignment: 9
-      pivot: {x: 0.63, y: 0.8}
+      pivot: {x: 0.4114476, y: 0.19287618}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 368
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.73236936, y: 0.1772633}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: spritesgettingshot_6
       rect:
         serializedVersion: 2
-        x: 65
-        y: 368
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.7840069, y: 0.19017303}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_7
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 368
-        width: 65
-        height: 40
-      alignment: 9
-      pivot: {x: 0.7194599, y: 0.19662781}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_8
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 369
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.6678218, y: 0.19085371}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_9
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 369
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.66782224, y: 0.21837014}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 303
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.73236936, y: 0.4612718}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_11
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 304
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.7840069, y: 0.47418118}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_12
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 304
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.7581881, y: 0.4612718}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_13
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 303
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.6807312, y: 0.4870906}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_14
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 304
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.6936406, y: 0.22210693}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 237
-        width: 65
-        height: 40
-      alignment: 9
-      pivot: {x: 0.70655054, y: 0.47418097}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_16
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 238
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.7710975, y: 0.47418097}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_17
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 238
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.7452787, y: 0.48709035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_18
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 239
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.6807312, y: 0.47418097}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_19
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 239
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.69364107, y: 0.49999976}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 173
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.3063591, y: 0.48709035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_21
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 173
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.24181202, y: 0.49999976}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_22
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 174
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.29344952, y: 0.48709035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_23
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 173
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.30635846, y: 0.48709035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_24
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 175
-        width: 65
-        height: 37
-      alignment: 9
-      pivot: {x: 0.30635893, y: 0.47418097}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_25
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 108
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.3063591, y: 0.42254335}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_26
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 108
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.21599321, y: 0.47418097}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_27
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 109
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.2547213, y: 0.48709035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_28
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 108
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.26763025, y: 0.48709035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_29
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 108
-        width: 65
-        height: 39
-      alignment: 9
-      pivot: {x: 0.31926832, y: 0.49999976}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_30
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 45
-        width: 65
-        height: 37
-      alignment: 9
-      pivot: {x: 0.3063591, y: 0.4999994}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_31
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 45
-        width: 65
-        height: 37
-      alignment: 9
-      pivot: {x: 0.22890261, y: 0.4999994}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_32
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 45
-        width: 65
-        height: 36
-      alignment: 9
-      pivot: {x: 0.30635893, y: 0.5129092}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_33
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 45
-        width: 65
-        height: 38
-      alignment: 9
-      pivot: {x: 0.30635893, y: 0.48709002}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_34
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 45
-        width: 65
-        height: 37
-      alignment: 9
-      pivot: {x: 0.31926832, y: 0.4999994}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: spritesgettingshot_35
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 17
-        width: 65
-        height: 67
+        x: 37
+        y: 370
+        width: 22
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 370
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 373
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 371
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 370
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 305
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 305
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 308
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 306
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 305
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 240
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 243
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 241
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 241
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6202143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.43766853, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 178
+        width: 40
+        height: 21
+      alignment: 9
+      pivot: {x: 0.33593065, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 176
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.3830404, y: 0.10188599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 175
+        width: 64
+        height: 12
+      alignment: 9
+      pivot: {x: 0.39261913, y: 0.18679047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 110
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6541735, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51483536, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 39
+        height: 25
+      alignment: 9
+      pivot: {x: 0.44073212, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 110
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.46452028, y: 0.10133921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 110
+        width: 54
+        height: 12
+      alignment: 9
+      pivot: {x: 0.51711017, y: 0.21106656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 45
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6670489, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46804187, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 42
+        width: 36
+        height: 26
+      alignment: 9
+      pivot: {x: 0.40112388, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 46
+        width: 47
+        height: 24
+      alignment: 9
+      pivot: {x: 0.39706615, y: 0.048654396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesgettingshot_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 44
+        height: 11
+      alignment: 9
+      pivot: {x: 0.38294742, y: 0.1592331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
