@@ -59,21 +59,15 @@ public class playerController : MonoBehaviour
         }
 		
 	}
-/*
-    public void Fire()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-
-        
-        // Create the Bullet from the Bullet Prefab
-        var bullet = (GameObject)Instantiate(
-            bulletPrefab,
-            bulletSpawn.position,
-            bulletSpawn.rotation);
-
-        // Add velocity to the bullet
-        bullet.GetComponent<Rigidbody2D>().velocity = bullet.transform.right * 5;
-
-        // Destroy the bullet after 2 seconds
-        Destroy(bullet, 5.0f);
-    }*/
+        Debug.Log("player collision");
+        if (collision.gameObject.tag == "enemyBullet")
+        {
+            Destroy(collision.gameObject);
+            animator.SetTrigger("dying");
+            Destroy(GetComponent<PolygonCollider2D>());
+            //Destroy(gameObject,3.0f);
+        }
+    }
 }
