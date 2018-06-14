@@ -30,24 +30,28 @@ public class playerController : MonoBehaviour
 			Vector3 position = this.transform.position;
 			position.x--;
 			this.transform.position = position;
-		}
+            //this.bulletSpawn.position = position;
+        }
 		if (Input.GetKeyDown(KeyCode.RightArrow))
 		{
 			Vector3 position = this.transform.position;
 			position.x++;
 			this.transform.position = position;
+            //this.bulletSpawn.position = position;
 		}
 		if (Input.GetKeyDown(KeyCode.UpArrow))
 		{
 			Vector3 position = this.transform.position;
 			position.y++;
 			this.transform.position = position;
-		}
+            //this.bulletSpawn.position = position;
+        }
 		if (Input.GetKeyDown(KeyCode.DownArrow))
 		{
 			Vector3 position = this.transform.position;
 			position.y--;
 			this.transform.position = position;
+            //this.bulletSpawn.position = position;
 		}
 		if (Input.GetKeyDown ("space")) 
 		{
@@ -55,7 +59,7 @@ public class playerController : MonoBehaviour
         }
 		
 	}
-
+/*
     public void Fire()
     {
 
@@ -70,6 +74,6 @@ public class playerController : MonoBehaviour
         bullet.GetComponent<Rigidbody2D>().velocity = bullet.transform.right * 5;
 
         // Destroy the bullet after 2 seconds
-        Destroy(bullet, 2.0f);
-    }
+        Destroy(bullet, 5.0f);
+    }*/
 }

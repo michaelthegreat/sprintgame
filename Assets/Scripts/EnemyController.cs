@@ -9,7 +9,9 @@ public class EnemyController : MonoBehaviour {
     private float TIMER1_CONST = 4f;
     float timer1;
     private Animator animator;
+    public GameObject bulletPrefab;
 
+    public Transform bulletSpawn;
 
 
     //how many seconds  until you destroy this object
@@ -28,8 +30,8 @@ public class EnemyController : MonoBehaviour {
         animator = this.GetComponent<Animator>();
         //Debug.Log(this.animator);
         //
-        timer1 = TIMER1_CONST;
-        Destroy(gameObject,22.0f);
+        timer1 = Random.Range(0.5f,9f);
+        Destroy(gameObject,90.0f);
     }
 
  
@@ -46,7 +48,7 @@ public class EnemyController : MonoBehaviour {
 
             if (timer1 <= 0)
             {
-                timer1 = TIMER1_CONST;
+                timer1 = Random.Range(0.5f, 9f); ;
                 this.animator.SetTrigger("shooting");
 
             }

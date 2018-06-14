@@ -7,6 +7,7 @@ public class MasterScript : MonoBehaviour {
     public GameObject enemy1;
     public GameObject enemy2;
     public GameObject enemy3;
+    public GameObject player;
     public bool pause;
     public bool lose;
     public float bottomYPosition;
@@ -20,7 +21,11 @@ public class MasterScript : MonoBehaviour {
     float timer4 = 1.45F;
     float current_timescale;
     // Use this for initialization
+
     void Start () {
+        Vector3 instants = new Vector3(-8.479f, 2.103f, 0.0f);
+
+        Instantiate(player, instants, Quaternion.identity);
         timer1 = TIMER1_CONST;
 
     }
