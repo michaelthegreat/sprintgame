@@ -8,8 +8,10 @@ public class MasterScript : MonoBehaviour {
     public GameObject enemy2;
     public GameObject enemy3;
     public GameObject player;
+    public GameObject lossText;
     public bool pause;
     public bool lose;
+    private bool loseFirstUpdatePass= true;
     public float bottomYPosition;
     public float topYPosition;
     //Four rockets go out asynchriously
@@ -47,6 +49,15 @@ public class MasterScript : MonoBehaviour {
 								//recalibrate input*/
                 //start_x = Input.acceleration.x;
                 //start_y = Input.acceleration.y;
+
+            }
+        }
+        else
+        {
+            if (loseFirstUpdatePass)
+            {
+                Instantiate(lossText);
+                loseFirstUpdatePass = false;
 
             }
         }
