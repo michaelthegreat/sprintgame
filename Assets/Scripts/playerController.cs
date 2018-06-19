@@ -77,8 +77,8 @@ public class playerController : MonoBehaviour
         //Debug.Log("player collision");
         if (collision.gameObject.tag == "enemyBullet")
         {
-            Destroy(collision.gameObject);
             animator.SetTrigger("dying");
+            Destroy(collision.gameObject);
             Destroy(GetComponent<PolygonCollider2D>());
             this.masterScript.lose = true;
             //Destroy(gameObject,3.0f);

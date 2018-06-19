@@ -23,7 +23,13 @@ public class MasterScript : MonoBehaviour {
     float timer4 = 1.45F;
     float current_timescale;
     // Use this for initialization
+    public void PlayAgain()
+    {
+        Debug.Log("Play Again");
 
+        Application.LoadLevel(Application.loadedLevel);
+        this.lose = false;
+    } 
     void Start () {
         Vector3 instants = new Vector3(-8.479f, 2.103f, 0.0f);
 
