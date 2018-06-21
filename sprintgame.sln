@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprintgame", "sprintgame.csproj", "{B36A1CEF-8392-9844-2D1D-548D75AFDAA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprintgame.Plugins", "sprintgame.Plugins.csproj", "{C2F2E3E7-233F-B038-C881-001D776B007B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprintgame.Editor.Plugins", "sprintgame.Editor.Plugins.csproj", "{4A35DBE9-D979-073A-6E97-D466CEAAB2AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{B36A1CEF-8392-9844-2D1D-548D75AFDAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B36A1CEF-8392-9844-2D1D-548D75AFDAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B36A1CEF-8392-9844-2D1D-548D75AFDAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F2E3E7-233F-B038-C881-001D776B007B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F2E3E7-233F-B038-C881-001D776B007B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F2E3E7-233F-B038-C881-001D776B007B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F2E3E7-233F-B038-C881-001D776B007B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A35DBE9-D979-073A-6E97-D466CEAAB2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A35DBE9-D979-073A-6E97-D466CEAAB2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A35DBE9-D979-073A-6E97-D466CEAAB2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A35DBE9-D979-073A-6E97-D466CEAAB2AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
