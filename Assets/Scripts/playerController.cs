@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+using UnityStandardAssets.CrossPlatformInput;
 public class playerController : MonoBehaviour
 {
 	private Animator animator;
@@ -24,7 +25,12 @@ public class playerController : MonoBehaviour
 
         if (!this.masterScript.lose)
         {
+            float h = CrossPlatformInputManager.GetAxisRaw("Horizontal");
+            float v = CrossPlatformInputManager.GetAxisRaw("Vertical");
+            Vector3 position = this.transform.position + (Vector3.right * h) + (Vector3.up * v);
+            this.transform.position = position;
             //Debug.Log("Lost");
+            /*
             if (Input.GetKeyDown(KeyCode.LeftArrow))
             {
                 Vector3 position = this.transform.position;
@@ -52,7 +58,7 @@ public class playerController : MonoBehaviour
                 position.y--;
                 this.transform.position = position;
                 //this.bulletSpawn.position = position;
-            }
+            }*/
             if (Input.GetKeyDown("space"))
             {
                 animator.SetTrigger("Shooting");
