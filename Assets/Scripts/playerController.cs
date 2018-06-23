@@ -29,6 +29,11 @@ public class playerController : MonoBehaviour
             float v = CrossPlatformInputManager.GetAxisRaw("Vertical");
             Vector3 position = this.transform.position + (Vector3.right * h) + (Vector3.up * v);
             this.transform.position = position;
+
+            if (CrossPlatformInputManager.GetButton("FireButton"))
+            {
+                animator.SetTrigger("Shooting");
+            }
             //Debug.Log("Lost");
             /*
             if (Input.GetKeyDown(KeyCode.LeftArrow))
@@ -58,11 +63,12 @@ public class playerController : MonoBehaviour
                 position.y--;
                 this.transform.position = position;
                 //this.bulletSpawn.position = position;
-            }*/
+            }
             if (Input.GetKeyDown("space"))
             {
                 animator.SetTrigger("Shooting");
-            }
+            }*/
+
         }
         else
         {
