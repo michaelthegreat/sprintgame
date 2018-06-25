@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\playerController.cs" />
     <Compile Include="Assets\Scripts\Points.cs" />
     <Compile Include="Assets\Scripts\sceneScroller.cs" />
+    <Compile Include="Assets\setWalltoCameraBounds.cs" />
     <Compile Include="Assets\ShootingBehavior.cs" />
     <Compile Include="Assets\ShootingScript.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
