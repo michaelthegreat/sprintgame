@@ -46,38 +46,33 @@ public class setWalltoCameraBounds : MonoBehaviour {
         //rightWall.GetComponent<BoxCollider2D>().bounds = bounds;
         //float rightBound = Camera.main.ViewportToWorldPoint(new Vector3(Screen.width, Screen.height, 0)).x;
         //float rightBound = mainCamera.transform.position.x  + mainCamera.orthographicSize;
-        //float rightBound = mainCamera.ScreenToWorldPoint(new Vector3(mainCamera.pixelWidth, mainCamera.pixelHeight, 0)).x;
-        Debug.Log("Orthographic size");
-        Debug.Log(mainCamera.orthographicSize);
-        Debug.Log("Screen Aspect");
-        Debug.Log(screenAspect);
-        Debug.Log("Main Camera position");
-        Debug.Log(mainCamera.transform.position);
-        Debug.Log("Right Bound?");
-        Debug.Log(mainCamera.transform.position.x + (mainCamera.orthographicSize * screenAspect));
-        float rightBound = mainCamera.transform.position.x + ( mainCamera.orthographicSize * screenAspect);// + (cameraHeight * screenAspect);
-        float rightWallPosition = rightBound;
-        Debug.Log(rightWallPosition);
+        float rightBound = mainCamera.ScreenToWorldPoint(new Vector3(mainCamera.pixelWidth, mainCamera.pixelHeight, 0)).x + (rightWall.GetComponent<BoxCollider2D>().size.x * rightWall.transform.lossyScale.x * 0.5f);
+
+        //float rightBound = mainCamera.transform.position.x + ( mainCamera.orthographicSize * screenAspect);// + (cameraHeight * screenAspect);
+        // float rightWallPosition = rightBound;
+        // Debug.Log(rightWallPosition);
         //float rightWallPosition = rightBound + (rightWall.GetComponent<BoxCollider2D>().size.y * rightWall.transform.lossyScale.x * 0.5f );
-        rightWall.transform.position = new Vector3(-rightWallPosition,rightWall.transform.position.y,rightWall.transform.position.z);
+        Vector3 rightWallPosition = new Vector3(rightBound, rightWall.transform.position.y, rightWall.transform.position.z);
+        rightWall.transform.localPosition = rightWallPosition;// new Vector3(rightWallPosition,rightWall.transform.position.y,rightWall.transform.position.z);
 
         GameObject leftWall = GameObject.Find("leftWall");
-        float leftBound = mainCamera.ScreenToWorldPoint(new Vector3(0, Screen.height, 0)).x;
-        float leftWallPosition = leftBound;
+        float leftBound = mainCamera.ScreenToWorldPoint(new Vector3(0, Screen.height, 0)).x - (leftWall.GetComponent<BoxCollider2D>().size.x * leftWall.transform.lossyScale.x * 0.5f);
+        Vector3 leftWallPosition = new Vector3(leftBound, leftWall.transform.position.y, leftWall.transform.position.z);
+        leftWall.transform.localPosition = leftWallPosition;
         //float leftWallPosition = leftBound - (leftWall.GetComponent<BoxCollider2D>().size.y * leftWall.transform.lossyScale.x * 0.5f);
-        rightWall.transform.position = new Vector3(leftWallPosition, leftWall.transform.position.y, leftWall.transform.position.z);
+       // rightWall.transform.position = new Vector3(leftWallPosition, leftWall.transform.position.y, leftWall.transform.position.z);
 
         GameObject topWall = GameObject.Find("topWall");
         float upperBound = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, 0)).y;
         //float upperBound = mainCamera.transform.position.y + mainCamera.orthographicSize;
         float topWallPosition = upperBound + (topWall.GetComponent<BoxCollider2D>().size.y * topWall.transform.lossyScale.y * 0.5f);
-        topWall.transform.position = new Vector3(topWall.transform.position.x,topWallPosition, topWall.transform.position.z);
+       // topWall.transform.position = new Vector3(topWall.transform.position.x,topWallPosition, topWall.transform.position.z);
 
         GameObject bottomWall = GameObject.Find("bottomWall");
         float lowerBound = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width,0, 0)).y;
         //float lowerBound= mainCamera.transform.position.y - mainCamera.orthographicSize;
         float bottomWallPosition = lowerBound - (bottomWall.GetComponent<BoxCollider2D>().size.y * bottomWall.transform.lossyScale.y  * 0.5f) ;
-        bottomWall.transform.position = new Vector3(bottomWall.transform.position.x, bottomWallPosition, bottomWall.transform.position.z);
+       // bottomWall.transform.position = new Vector3(bottomWall.transform.position.x, bottomWallPosition, bottomWall.transform.position.z);
         //bottomWA.position = new Vector3(bottomWall.position.x, lowerBound, bottomWall.position.z);
 
 
