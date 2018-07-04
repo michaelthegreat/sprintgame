@@ -29,8 +29,13 @@ public class MasterScript : MonoBehaviour {
 
         Application.LoadLevel(Application.loadedLevel);
         this.lose = false;
-    } 
+    }
+    private void Awake()
+    {
+        Screen.orientation = ScreenOrientation.LandscapeLeft;
+    }
     void Start () {
+        
         Vector3 instants = new Vector3(-8.479f, 2.103f, 0.0f);
 
         Instantiate(player, instants, Quaternion.identity);
